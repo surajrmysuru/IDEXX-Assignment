@@ -1,0 +1,183 @@
+2019-01-04 20:57:36,099 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2019-01-04 20:57:36,144 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2019-01-04 20:57:36,145 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2019-01-04 20:57:36,147 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2019-01-04 20:57:36,147 INFO o.a.j.JMeter: Version 3.3 r1808647
+2019-01-04 20:57:36,147 INFO o.a.j.JMeter: java.version=11.0.1
+2019-01-04 20:57:36,147 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-01-04 20:57:36,147 INFO o.a.j.JMeter: os.name=Windows 10
+2019-01-04 20:57:36,147 INFO o.a.j.JMeter: os.arch=amd64
+2019-01-04 20:57:36,147 INFO o.a.j.JMeter: os.version=10.0
+2019-01-04 20:57:36,147 INFO o.a.j.JMeter: file.encoding=Cp1252
+2019-01-04 20:57:36,147 INFO o.a.j.JMeter: Max memory     =4253024256
+2019-01-04 20:57:36,147 INFO o.a.j.JMeter: Available Processors =8
+2019-01-04 20:57:36,172 INFO o.a.j.JMeter: Default Locale=English (United States)
+2019-01-04 20:57:36,173 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2019-01-04 20:57:36,173 INFO o.a.j.JMeter: JMeterHome=E:\Performance Testing\apache-jmeter-3.3
+2019-01-04 20:57:36,173 INFO o.a.j.JMeter: user.dir  =E:\Performance Testing\apache-jmeter-3.3\bin
+2019-01-04 20:57:36,173 INFO o.a.j.JMeter: PWD       =E:\Performance Testing\apache-jmeter-3.3\bin
+2019-01-04 20:57:40,696 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: LAPTOP-2GMCKQ44 FullName: LAPTOP-2GMCKQ44
+2019-01-04 20:57:41,063 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform]
+2019-01-04 20:57:41,067 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-01-04 20:57:41,999 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-01-04 20:57:41,999 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-01-04 20:57:43,017 INFO o.j.r.JARSourceHTTP: Found cached repo
+2019-01-04 20:57:43,177 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-casutg=2.6, jpgc-plugins-manager=1.3, jmeter-core=3.3, jmeter-ftp=3.3, jmeter-http=3.3, jmeter-jdbc=3.3, jmeter-jms=3.3, jmeter-junit=3.3, jmeter-java=3.3, jmeter-ldap=3.3, jmeter-mail=3.3, jmeter-mongodb=3.3, jmeter-native=3.3, jmeter-tcp=3.3, jmeter-components=3.3]
+2019-01-04 20:57:44,278 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2019-01-04 20:57:44,799 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2019-01-04 20:57:44,842 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2019-01-04 20:57:44,891 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-04 20:57:44,891 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-04 20:57:44,891 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-04 20:57:44,891 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-04 20:57:44,892 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-01-04 20:57:44,892 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-01-04 20:57:45,579 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-01-04 20:57:45,580 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file E:\Performance Testing\apache-jmeter-3.3\bin\proxyserver.jks
+2019-01-04 20:57:45,800 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2019-01-04 20:57:45,862 INFO o.a.j.s.FileServer: Default base='E:\Performance Testing\apache-jmeter-3.3\bin'
+2019-01-04 20:57:45,985 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2019-01-04 20:57:45,986 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2019-01-04 20:57:46,785 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2019-01-04 20:57:46,836 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2019-01-04 20:57:47,067 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-01-04 20:57:47,067 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-01-04 20:57:47,068 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-01-04 20:57:47,068 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-01-04 20:57:47,097 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
+java.lang.NoClassDefFoundError: javafx/scene/Parent
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:315) ~[?:?]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createComboRender(ViewResultsFullVisualizer.java:478) ~[ApacheJMeter_components.jar:3.3 r1808647]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createLeftPanel(ViewResultsFullVisualizer.java:446) ~[ApacheJMeter_components.jar:3.3 r1808647]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.init(ViewResultsFullVisualizer.java:358) ~[ApacheJMeter_components.jar:3.3 r1808647]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.<init>(ViewResultsFullVisualizer.java:163) ~[ApacheJMeter_components.jar:3.3 r1808647]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at java.lang.Class.newInstance(Class.java:584) ~[?:?]
+	at org.apache.jmeter.gui.util.MenuFactory.initializeMenus(MenuFactory.java:505) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.util.MenuFactory.<clinit>(MenuFactory.java:169) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.control.gui.TestPlanGui.createPopupMenu(TestPlanGui.java:93) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.tree.JMeterTreeNode.createPopupMenu(JMeterTreeNode.java:156) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.EditCommand.doAction(EditCommand.java:46) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:80) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:65) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770) [?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) [?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) [?:?]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:740) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+Caused by: java.lang.ClassNotFoundException: javafx.scene.Parent
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:471) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	... 31 more
+2019-01-04 20:58:05,698 INFO o.a.j.g.a.Load: Loading file: E:\Performance Testing\IdexxAssignment_v1.jmx
+2019-01-04 20:58:05,699 INFO o.a.j.s.FileServer: Set new base='E:\Performance Testing'
+2019-01-04 20:58:05,851 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-01-04 20:58:05,858 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
+2019-01-04 20:58:05,860 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-01-04 20:58:05,861 INFO o.a.j.s.SaveService: Loading file: E:\Performance Testing\IdexxAssignment_v1.jmx
+2019-01-04 20:58:05,976 WARN o.j.r.p.TestPlanAnalyzer: Cannot parse file: E:\Performance Testing\IdexxAssignment_v1.jmx
+org.xml.sax.SAXParseException: Character reference "&#x0" is an invalid XML character.
+	at org.apache.xerces.parsers.DOMParser.parse(Unknown Source) ~[xercesImpl-2.11.0.jar:?]
+	at org.apache.xerces.jaxp.DocumentBuilderImpl.parse(Unknown Source) ~[xercesImpl-2.11.0.jar:?]
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:122) ~[?:?]
+	at org.jmeterplugins.repository.plugins.TestPlanAnalyzer.getNodeListWithClassNames(TestPlanAnalyzer.java:104) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.plugins.TestPlanAnalyzer.analyze(TestPlanAnalyzer.java:33) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.plugins.PluginSuggester.analyzeTestPlan(PluginSuggester.java:51) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.plugins.PluginSuggester.findPluginsToInstall(PluginSuggester.java:44) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.plugins.PluginSuggester.checkAndSuggest(PluginSuggester.java:28) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.logging.LoggerAppender.append(LoggerAppender.java:33) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:156) ~[log4j-core-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:129) ~[log4j-core-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:120) ~[log4j-core-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:84) ~[log4j-core-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:448) ~[log4j-core-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:433) ~[log4j-core-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:417) ~[log4j-core-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:403) ~[log4j-core-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:63) ~[log4j-core-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.core.Logger.logMessage(Logger.java:146) ~[log4j-core-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2091) ~[log4j-api-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2005) ~[log4j-api-2.8.2.jar:2.8.2]
+	at org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:1876) ~[log4j-api-2.8.2.jar:2.8.2]
+	at org.apache.logging.slf4j.Log4jLogger.info(Log4jLogger.java:184) ~[log4j-slf4j-impl-2.8.2.jar:2.8.2]
+	at org.apache.jmeter.save.SaveService.loadTree(SaveService.java:422) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:130) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:102) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.Load.doActionAfterCheck(Load.java:89) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.AbstractActionWithNoRunningTest.doAction(AbstractActionWithNoRunningTest.java:45) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:80) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:65) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770) [?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) [?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) [?:?]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:740) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2019-01-04 20:58:06,028 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2019-01-04 20:58:06,576 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
+java.lang.NoClassDefFoundError: javafx/scene/Parent
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:315) ~[?:?]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createComboRender(ViewResultsFullVisualizer.java:478) ~[ApacheJMeter_components.jar:3.3 r1808647]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createLeftPanel(ViewResultsFullVisualizer.java:446) ~[ApacheJMeter_components.jar:3.3 r1808647]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.init(ViewResultsFullVisualizer.java:358) ~[ApacheJMeter_components.jar:3.3 r1808647]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.<init>(ViewResultsFullVisualizer.java:163) ~[ApacheJMeter_components.jar:3.3 r1808647]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at java.lang.Class.newInstance(Class.java:584) ~[?:?]
+	at org.apache.jmeter.gui.GuiPackage.getGuiFromCache(GuiPackage.java:399) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.GuiPackage.getGui(GuiPackage.java:245) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.GuiPackage.getGui(GuiPackage.java:216) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addComponent(JMeterTreeModel.java:145) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addSubTree(JMeterTreeModel.java:121) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addSubTree(JMeterTreeModel.java:121) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addSubTree(JMeterTreeModel.java:113) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.GuiPackage.addSubTree(GuiPackage.java:517) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.Load.insertLoadedTree(Load.java:194) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:131) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:102) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.Load.doActionAfterCheck(Load.java:89) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.AbstractActionWithNoRunningTest.doAction(AbstractActionWithNoRunningTest.java:45) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:80) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:65) ~[ApacheJMeter_core.jar:3.3 r1808647]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313) [?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770) [?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:721) [?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:715) [?:?]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85) [?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:740) [?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+Caused by: java.lang.ClassNotFoundException: javafx.scene.Parent
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:471) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	... 39 more
+2019-01-04 20:58:06,735 INFO o.a.j.s.FileServer: Set new base='E:\Performance Testing'
